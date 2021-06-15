@@ -1,0 +1,9 @@
+{
+  "name": "factory-route-adonisjs5",
+  "version": "1.0.0",
+  "description": "Generic route factory",
+  "main": "index.ts",
+  "repository": "https://github.com/pdsolucoes/factory-route-adonisjs5.git",
+  "author": "PD Soluções",
+  "license": "MIT"
+}
