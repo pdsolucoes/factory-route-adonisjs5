@@ -1,3 +1,4 @@
+/// <reference path="../node_modules/@adonisjs/http-server/build/adonis-typings/route.d.ts" />
 import Route from '@ioc:Adonis/Core/Route'
 import BaseRoute from './base-route'
 
