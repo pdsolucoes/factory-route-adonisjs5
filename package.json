@@ -2,10 +2,21 @@
   "name": "@pd-solucoes/factory-route-adonisjs5",
   "version": "1.0.0",
   "description": "Generic route factory",
-  "main": "index.ts",
   "repository": "https://github.com/pdsolucoes/factory-route-adonisjs5.git",
   "author": "PD Soluções",
   "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "keywords": [
+    "adonis",
+    "router builder"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@adonisjs/assembler": "^5.0.0",
     "adonis-preset-ts": "^2.1.0",
