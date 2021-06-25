@@ -5,6 +5,8 @@ import ReadAllVerb from './readAllVerb'
 import UpdateVerb from './updateVerb'
 import { EnumVerbRoute, RouteMap } from './interfaceRoute'
 import DeleteVerb from './deleteVerb'
+
+/// <reference path="../node_modules/@adonisjs/http-server/build/adonis-typings/route.d.ts" />
 import Route from '@ioc:Adonis/Core/Route'
 
 const routeCreate: RouteMap = { verb: 'create', routeClass: CreateVerb }
