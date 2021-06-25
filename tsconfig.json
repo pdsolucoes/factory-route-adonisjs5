@@ -10,5 +10,6 @@
     "rootDir": "./",
     "sourceMap": true,
     "types": ["@adonisjs/core", "@adonisjs/repl"]
-  }
+  },
+  "files": ["./node_modules/@adonisjs/core/build/adonis-typings/index.d.ts"]
 }
