@@ -1,5 +1,7 @@
-import { EnumVerbRoute, RouteBuilder } from './interfaceRoute'
+import { EnumVerbRoute, RouteBuilder, RouteMap } from './interfaceRoute'
 import RouteFactory from './route.factory'
+
+export {EnumVerbRoute, RouteBuilder, RouteMap}
 
 export default abstract class GenerateRouteService {
   /**

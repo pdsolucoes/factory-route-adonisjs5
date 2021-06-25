@@ -1,5 +1,2 @@
-import Handler from './FactoryRoute/handler'
-import {EnumVerbRoute, RouteBuilder, RouteMap} from './FactoryRoute/interfaceRoute'
+/// <reference path="./FactoryRoute/index.ts" />
 
-export { EnumVerbRoute, RouteBuilder, RouteMap}
-export default Handler
