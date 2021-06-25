@@ -1,5 +1,5 @@
 {
-  "name": "factory-route-adonisjs5",
+  "name": "@pd-solucoes/factory-route-adonisjs5",
   "version": "1.0.0",
   "description": "Generic route factory",
   "main": "index.ts",
